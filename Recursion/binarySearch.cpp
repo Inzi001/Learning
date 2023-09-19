@@ -27,6 +27,5 @@ int main(){
     int e = size - 1;
     int key = 6;
     binarySearch(arr, s, e, key);
-    cout<<"hello";
     return 0;
 }
