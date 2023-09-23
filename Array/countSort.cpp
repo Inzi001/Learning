@@ -29,7 +29,7 @@ void countSort(int a[], int n){
 }
 
 int main(){
-    int arr[] = {5, 3, 1, 4, 2, 0, 4, 5};
+    int arr[] = {1, 3, 1, 4, 0, 0, 9, 9};
     countSort(arr, 8);
     return 0;
 }
